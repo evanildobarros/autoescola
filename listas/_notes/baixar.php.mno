@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_baixa" value="name:id;datatype:int,name:tipo;datatype:int,name:event_start;datatype:date,name:dia;datatype:int,name:mes;datatype:int,name:ano;datatype:int,name:cat;datatype:int,name:id_cliente;datatype:string,name:cliente;datatype:string,name:descricao;datatype:string,name:valor;datatype:real,name:valor2;datatype:string,name:status;datatype:string,name:vencimento;datatype:string,name:fpagamento;datatype:string,name:m;datatype:string,name:fornecedor;datatype:string,name:nota;datatype:string,name:form_pg;datatype:string,name:form_pg2;datatype:string,name:funcionario;datatype:string" />
+</info>

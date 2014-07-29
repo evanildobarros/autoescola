@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:tpvCodigo;datatype:int,name:tpvDescricao;datatype:string,name:tpvAtualiz;datatype:timestamp" />
+	<infoitem key="UD_categoria" value="name:catCodigo;datatype:int,name:catDescricao;datatype:string,name:catAtualiz;datatype:timestamp" />
+</info>

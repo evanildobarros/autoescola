@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_total_geral" value="name:total;datatype:real" />
+	<infoitem key="UD_total" value="name:total;datatype:real" />
+</info>

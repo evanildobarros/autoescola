@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_proces" value="name:id_processo;datatype:int,name:cliente;datatype:string,name:codigo;datatype:string,name:local;datatype:string,name:descricao;datatype:string,name:status;datatype:string,name:entrada;datatype:string,name:movimentacao;datatype:string,name:hora;datatype:string" />
+</info>

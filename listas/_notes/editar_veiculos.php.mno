@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_editar" value="name:id_veiculo;datatype:int,name:ano_fab;datatype:string,name:marca_modelo;datatype:string,name:cor;datatype:string,name:especie;datatype:string,name:km_inicial;datatype:string,name:km_final;datatype:string,name:manutencao;datatype:date" />
+</info>

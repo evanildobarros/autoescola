@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_cliente" value="name:id;datatype:int,name:event_title;datatype:string,name:event_shortdesc;datatype:string,name:event_start;datatype:date,name:hora;datatype:string,name:aluno;datatype:string,name:instrutor;datatype:string,name:veiculo;datatype:string,name:categoria;datatype:string,name:tipo;datatype:string,name:descricao;datatype:string,name:mes;datatype:string" />
+</info>

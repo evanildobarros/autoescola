@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_doc" value="name:id_doc;datatype:int,name:id_cliente;datatype:int,name:img;datatype:string" />
+</info>

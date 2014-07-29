@@ -1,0 +1,6 @@
+<products>
+  <product name="Form Controls" version="1.0.0" />
+  <product name="Transaction Engine" version="1.0.0" />
+  <product name="Form Validation" version="1.0.0" />
+  <product name="File Upload" version="1.0.0" />
+</products>

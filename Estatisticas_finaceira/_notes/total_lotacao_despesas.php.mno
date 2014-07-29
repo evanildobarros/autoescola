@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_total" value="name:valor;datatype:real,name:filial;datatype:string" />
+	<infoitem key="UD_total2" value="name:SUM(valor);datatype:real" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_aluno" value="name:id;datatype:int,name:aluno;datatype:string,name:data;datatype:date,name:hora;datatype:string,name:hora1;datatype:string,name:turno;datatype:string,name:status;datatype:string" />
+</info>

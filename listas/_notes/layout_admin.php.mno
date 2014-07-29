@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_ssala" value="name:id_sala;datatype:int,name:prof;datatype:string,name:turno;datatype:string,name:periodo1;datatype:date,name:periodo2;datatype:date,name:descricao;datatype:string" />
+</info>

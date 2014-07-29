@@ -1,0 +1,114 @@
+@charset "utf-8";
+
+.mes{
+
+width:600px;
+min-height:0px;
+color:#fff;
+margin:90px 0px 0px -80px;
+}
+
+.bdt{
+background:#d9d9d9;
+width:600px;
+color:#fff;
+margin:30px 0px 100px -50px;
+}
+
+.bg2{
+
+background:#d9d9d9;
+width:600px;
+color:#fff;
+margin:70px 0px 0px -50px;
+}
+
+.td{
+padding:10px;
+color:#FFFFFF;
+}
+
+.td{
+padding:10px;
+color:#333 	;
+}
+
+.input{
+width:300px;
+padding:7px;
+margin:0px 0px 0px 80px;
+}
+
+.bt2{
+width:100px;
+border:none;
+padding:9px;
+background:#333;
+color:#FFFFFF;
+cursor:pointer;
+outline:none;
+margin:0px 0px 0px -6px;
+}
+
+
+.bt2:hover{
+width:100px;
+border:none;
+padding:9px;
+background:#666;
+color:#FFFFFF;
+cursor:pointer;
+outline:none;
+margin:0px 0px 0px -6px;
+}
+
+.mes2{
+padding:8px;
+background:#666;
+width:300px;
+min-height:0px;
+margin:120px 0px 0px 15px;
+}
+
+
+.balanco_mensal_texto{
+padding:8px;
+background:#666;
+width:302px;
+min-height:0px;
+margin:25px 0px 0px 15px;
+color:#FFFFFF;
+}
+
+.balanco_mensal{
+padding:8px;
+width:300px;
+min-height:0px;
+margin:0px 0px 0px 15px;
+border:1px solid #666666;
+}
+
+.tabela_consulta{
+padding:8px;
+width:362px;
+min-height:0px;
+margin:-260px 0px 500px 650px;
+color:#FFFFFF;
+}
+
+.tabela{
+padding:8px;
+width:420px;
+min-height:0px;
+margin:-505px 0px 200px 450px;
+color:#FFFFFF;
+}
+
+
+.tabela3{
+padding:8px;
+width:320px;
+min-height:0px;
+margin:-250px 0px 200px 250px;
+color:#FFFFFF;
+}

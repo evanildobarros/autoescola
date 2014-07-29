@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_salas" value="name:id_turma;datatype:int,name:id_aluno;datatype:string,name:sala;datatype:string" />
+	<infoitem key="UD_professor" value="name:prof;datatype:string,name:periodo1;datatype:date,name:periodo2;datatype:date" />
+</info>

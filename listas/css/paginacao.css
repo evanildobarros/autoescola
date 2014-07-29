@@ -1,0 +1,138 @@
+.pag{
+border:1px solid #fff;
+padding:5px;
+background:#333;
+color:#FFFFFF;
+margin:5px;
+text-decoration:none;
+font-family: verdana, "arial black";
+font-size: 11px;
+text-decoration:none;
+}
+
+.pag:hover{
+border:1px solid #fff;
+padding:5px;
+background:#666;
+color:#FFFFFF;
+margin:5px;
+text-decoration:none
+
+}
+
+.pag2{
+background:#0099ff;
+border:1px solid #fff;
+padding:5px;
+text-decoration:none;
+color:#fff;
+margin:auto;
+cursor:pointer;
+text-align:center;
+font-family: verdana, "arial black";
+font-size: 11px;
+}
+
+.pag2:hover{
+background:#1f497d;
+border:1px solid #fff;
+padding:5px;
+text-decoration:none;
+margin:auto;
+text-align:center;
+font-family: verdana, "arial black";
+font-size: 11px;
+}
+
+.input{
+border:none;
+padding:8px;
+width:200px;
+background:#FFFFFF;
+margin:0px 0px 10px 0px;
+outline:none;
+border:1px solid #1f497d;
+transition:all 0.5s linear;
+-webkit-transition:all 0.5s linear;
+-moz-transition:all 0.5s linear;
+text-transform:uppercase;
+
+}
+
+.input:hover{
+border:1px solid #666;
+border:none;
+padding:8px;
+width:200px;
+background:#F8F8F8;
+margin:0px 0px 10px 0px;
+outline:none;
+border:1px solid  #009999;
+color:#009999;
+}
+
+.bt{
+border:1px solid #CCCCCC;
+padding:5px;
+background:#666;
+color:#FFFFFF;
+margin:5px;
+cursor:pointer;
+outline:none;
+}
+.bt:hover{
+border:1px solid #CCCCCC;
+padding:5px;
+background:#333;
+color:#FFFFFF;
+margin:5px;
+cursor:pointer;
+outline:none;
+}
+
+.bt2{
+border:none;
+padding:9px;
+background:#3b5998;
+color:#FFFFFF;
+cursor:pointer;
+outline:none;
+margin:0px 0px 0px -6px;
+}
+
+
+.bt2:hover{
+border:none;
+padding:9px;
+background:#0099ff;
+color:#FFFFFF;
+cursor:pointer;
+outline:none;
+margin:0px 0px 0px -6px;
+}
+
+
+.bt4{
+border:none;
+padding:9px;
+background:#333;
+color:#FFFFFF;
+cursor:pointer;
+outline:none;
+margin:0px 0px 0px 0px;
+}
+
+
+.bt4:hover{
+border:none;
+padding:9px;
+background:#666;
+color:#FFFFFF;
+cursor:pointer;
+outline:none;
+margin:0px 0px 0px 0px;
+}
+
+.link_bt{
+background:url(../img/SERVICO.jpg);
+background-repeat:no-repeat;

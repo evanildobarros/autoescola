@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_soma1" value="name:total;datatype:real" />
+	<infoitem key="UD_soma2" value="name:total;datatype:real" />
+	<infoitem key="UD_soma3" value="name:total;datatype:real" />
+	<infoitem key="UD_soma4" value="name:total;datatype:real" />
+	<infoitem key="UD_total_geral" value="name:total;datatype:real" />
+</info>

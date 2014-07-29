@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".tidyconf" server="C:/wamp/www/Marcelo_Imovel_des/" local="130464787580000000" remote="130464787580000000" />
+<file name="tNG_Captcha.class.php" server="C:/wamp/www/Marcelo_Imovel_des/" local="130464787580000000" remote="130464787580000000" />
+<file name="tNG_CheckDetailRecord.class.php" server="C:/wamp/www/Marcelo_Imovel_des/" local="130464787560000000" remote="130464787560000000" />
+<file name="tNG_CheckMasterRecord.class.php" server="C:/wamp/www/Marcelo_Imovel_des/" local="130464787580000000" remote="130464787580000000" />
+<file name="tNG_CheckTableField.class.php" server="C:/wamp/www/Marcelo_Imovel_des/" local="130464787560000000" remote="130464787560000000" />
+<file name="tNG_CheckUnique.class.php" server="C:/wamp/www/Marcelo_Imovel_des/" local="130464787580000000" remote="130464787580000000" />
+<file name="tNG_ChkForbiddenWords.class.php" server="C:/wamp/www/Marcelo_Imovel_des/" local="130464787580000000" remote="130464787580000000" />
+<file name="tNG_defTrigg.inc.php" server="C:/wamp/www/Marcelo_Imovel_des/" local="130464787560000000" remote="130464787560000000" />
+<file name="tNG_DeleteDetailRec.class.php" server="C:/wamp/www/Marcelo_Imovel_des/" local="130464787600000000" remote="130464787600000000" />
+<file name="tNG_DeleteFolder.class.php" server="C:/wamp/www/Marcelo_Imovel_des/" local="130464787560000000" remote="130464787560000000" />
+<file name="tNG_Download.class.php" server="C:/wamp/www/Marcelo_Imovel_des/" local="130464787560000000" remote="130464787560000000" />
+<file name="tNG_DynamicMedia.class.php" server="C:/wamp/www/Marcelo_Imovel_des/" local="130464787580000000" remote="130464787580000000" />
+<file name="tNG_DynamicThumbnail.class.php" server="C:/wamp/www/Marcelo_Imovel_des/" local="130464787600000000" remote="130464787600000000" />
+<file name="tNG_FieldCompare.class.php" server="C:/wamp/www/Marcelo_Imovel_des/" local="130464787560000000" remote="130464787560000000" />
+<file name="tNG_FileDelete.class.php" server="C:/wamp/www/Marcelo_Imovel_des/" local="130464787560000000" remote="130464787560000000" />
+<file name="tNG_FileListRecordset.class.php" server="C:/wamp/www/Marcelo_Imovel_des/" local="130464787580000000" remote="130464787580000000" />
+<file name="tNG_FileUpload.class.php" server="C:/wamp/www/Marcelo_Imovel_des/" local="130464787600000000" remote="130464787600000000" />
+<file name="tNG_FormValidation.class.php" server="C:/wamp/www/Marcelo_Imovel_des/" local="130464787600000000" remote="130464787600000000" />
+<file name="tNG_ImageUpload.class.php" server="C:/wamp/www/Marcelo_Imovel_des/" local="130464787540000000" remote="130464787540000000" />
+<file name="tNG_LinkedTrans.class.php" server="C:/wamp/www/Marcelo_Imovel_des/" local="130464787560000000" remote="130464787560000000" />
+<file name="tNG_ManyToMany.class.php" server="C:/wamp/www/Marcelo_Imovel_des/" local="130464787560000000" remote="130464787560000000" />
+<file name="tNG_MFileUpload.class.php" server="C:/wamp/www/Marcelo_Imovel_des/" local="130464787580000000" remote="130464787580000000" />
+<file name="tNG_MImageUpload.class.php" server="C:/wamp/www/Marcelo_Imovel_des/" local="130464787560000000" remote="130464787560000000" />
+<file name="tNG_MtmFakeRs.class.php" server="C:/wamp/www/Marcelo_Imovel_des/" local="130464787560000000" remote="130464787560000000" />
+<file name="tNG_MuploadHelper.class.php" server="C:/wamp/www/Marcelo_Imovel_des/" local="130464787600000000" remote="130464787600000000" />
+<file name="tNG_Redirect.class.php" server="C:/wamp/www/Marcelo_Imovel_des/" local="130464787580000000" remote="130464787580000000" />
+<file name="tNG_ThrowError.class.php" server="C:/wamp/www/Marcelo_Imovel_des/" local="130464787600000000" remote="130464787600000000" />
+<file name="tNG_TidyContent.class.php" server="C:/wamp/www/Marcelo_Imovel_des/" local="130464787560000000" remote="130464787560000000" />
+<file name="tNG_TidyContent.inc.php" server="C:/wamp/www/Marcelo_Imovel_des/" local="130464787580000000" remote="130464787580000000" />
+</dwsync>

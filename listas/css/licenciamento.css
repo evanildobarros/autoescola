@@ -1,0 +1,36 @@
+.lic_box1{
+padding:10px;	
+background:#fff;
+width:400px;
+min-height:opx;
+margin:0px 0px 0px -45px;
+float:left;
+border-radius:5px;
+-webkit-border-radius:5px;
+-moz-border-radius:5px;
+border:3px solid #003399;
+
+}
+
+.lic_box2{
+padding:10px;	
+background:#F4F4F4;
+width:400px;
+min-height:opx;
+margin:-430px 0px 0px 450px;
+float:left;
+border-radius:5px;
+-webkit-border-radius:5px;
+-moz-border-radius:5px;
+border:3px solid #003399;
+}
+
+
+.lic_box3{
+padding:10px;	
+background:#E5E5E5;
+width:400px;
+min-height:opx;
+margin:-80px 0px 300px 455px;
+float:left;
+}

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_plcads" value="name:id_veiculo;datatype:int,name:cliente;datatype:string,name:data;datatype:string,name:data_nota;datatype:string,name:vencimento;datatype:string,name:placa;datatype:string,name:renavam;datatype:string,name:chassi;datatype:string,name:cor;datatype:string,name:tipo;datatype:string,name:categoria;datatype:string,name:Marca_Modelo;datatype:string,name:ano_fab_modelo;datatype:string,name:combustivel;datatype:string,name:aviso;datatype:string" />
+	<infoitem key="UD_vei" value="name:id_veiculo;datatype:int,name:cliente;datatype:string,name:data;datatype:string,name:data_nota;datatype:string,name:vencimento;datatype:string,name:placa;datatype:string,name:renavam;datatype:string,name:chassi;datatype:string,name:cor;datatype:string,name:tipo;datatype:string,name:categoria;datatype:string,name:Marca_Modelo;datatype:string,name:ano_fab_modelo;datatype:string,name:combustivel;datatype:string,name:aviso;datatype:string" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_fornecedor" value="name:id_fornecedor;datatype:int,name:cnpj;datatype:string,name:razao;datatype:string,name:nome;datatype:string" />
+	<infoitem key="UD_formap" value="name:id_cat;datatype:int,name:Categoria;datatype:string" />
+</info>

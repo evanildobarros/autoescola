@@ -1,0 +1,60 @@
+ul.topnav {
+	list-style: none;
+	padding: 0 20px;	
+	margin: 0;
+	float: left;
+	width: 920px;
+	background: # 222;
+	font-size: 1.2em;
+	background: url (topnav_bg.gif) repeat-x;
+}
+ul.topnav li {
+	float: left;
+	margin: 0;	
+	padding: 0 15px 0 0;
+	position: relative; / * - Declarar X e Y base de eixo para a sub navegação - * /
+}
+ul.topnav li a {
+	padding: 5px 10px;
+	color: # fff;
+	display: block;
+	text-decoration: none;
+	float: left;
+}
+ul.topnav li a: hover {
+	background: url (topnav_hover.gif) top center no-repeat;
+}
+ul.topnav período li {/ * - Desça estilos gatilho - * /
+	width: 17px;
+	height: 35px;
+	float: left;
+	background: url (subnav_btn.gif) top center no-repeat;
+}
+ul.topnav li span.subhover {background-position: centro da parte inferior; cursor: pointer;} / * - efeito Hover para gatilho - * /
+ul.topnav ul.subnav li {
+	list-style: none;
+	position: absolute; / * - Importante - Mantém subnav de afetar o fluxo de navegação principal - * /
+	esquerda: 0; top: 35px;
+	background: # 333;
+	margin: 0; padding: 0;
+	display: none;
+	float: left;
+	width: 170px;
+	border: 1px solid # 111;
+}
+ul.topnav li ul.subnav li {
+	margin: 0; padding: 0;
+	border-top: 1px solid # 252525; / * - Criar efeito de bisel - * /
+	border-bottom: 1px solid # 444; / * - Criar efeito de bisel - * /
+	clear: both;
+	width: 170px;
+}
+html ul.topnav li ul.subnav li a {
+	float: left;
+	width: 145px;
+	background: # 333 url (dropdown_linkbg.gif) Centro de 10px no-repeat;
+	padding-left: 20px;
+}
+html ul.topnav li ul.subnav li a: hover {/ * - efeito Hover para links subnav - * /
+	background: # 222 url (dropdown_linkbg.gif) Centro de 10px no-repeat; 
+}

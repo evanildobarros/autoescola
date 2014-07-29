@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_editar" value="name:id_fornecedor;datatype:int,name:cnpj;datatype:string,name:razao;datatype:string,name:nome;datatype:string,name:telefone;datatype:string,name:email;datatype:string" />
+</info>

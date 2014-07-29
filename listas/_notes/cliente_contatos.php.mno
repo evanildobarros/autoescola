@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_contatios" value="name:id_cliente;datatype:int,name:data;datatype:string,name:login;datatype:string,name:cliente;datatype:string,name:apelido;datatype:string,name:endereco;datatype:string,name:bairro;datatype:string,name:municipio;datatype:string,name:local;datatype:string,name:cpf_titular;datatype:string,name:cnpj;datatype:string,name:cpf_procu;datatype:string,name:procuracao;datatype:string,name:aniversario;datatype:date,name:telefone;datatype:string,name:email;datatype:string,name:status;datatype:string,name:status2;datatype:string" />
+</info>

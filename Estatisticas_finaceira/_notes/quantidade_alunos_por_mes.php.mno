@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_total" value="name:LOTAcaoO;datatype:string,name:Janeiro;datatype:int,name:Fevereiro;datatype:int,name:Marco;datatype:int,name:Abril;datatype:int,name:Maio;datatype:int,name:Junho;datatype:int,name:Julho;datatype:int,name:Agosto;datatype:int,name:Setembro;datatype:int,name:Outubro;datatype:int,name:Novembro;datatype:int,name:Dezembro;datatype:int,name:Total;datatype:real" />
+	<infoitem key="UD_total2" value="name:SUM(valor);datatype:real" />
+</info>

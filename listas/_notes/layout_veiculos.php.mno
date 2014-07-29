@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_cor" value="name:id;datatype:int,name:desc;datatype:string" />
+	<infoitem key="UD_especie" value="name:id;datatype:int,name:desc;datatype:string" />
+</info>
